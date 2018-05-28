@@ -1,0 +1,95 @@
+a {
+    text-decoration: none;
+    color: $blue-clear;
+}
+
+a:hover {
+    font-weight: 700;
+}
+
+.article__block {
+    flex: 1;
+    padding-left: 5rem;
+    padding-right: 5px;
+}
+
+.gallery__item img {
+    padding: 10px;
+    box-shadow: 1px 1px 3px rgb(150, 181, 211);
+}
+
+.header__region {
+    background-color: $dark-blue;
+}
+
+.carousel__navigation__barul {
+    list-style: none;
+    color: #fff;
+    margin-right: 100px;
+}
+
+.footer__region {
+    background-color: $dark-blue;
+    color: #fff;
+}
+
+.carousel__navigation__barul li {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.navigation__bar ul {
+    list-style: none;
+}
+
+.navigation__bar ul li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.navigation__bar ul li a:hover {
+    background-color: #fff;
+    padding: 12px 20px;
+}
+
+.footer__social__icons li {
+    display: inline-block;
+}
+
+.article__block {
+    background: url("../img/bg_img.jpg");
+}
+
+.site__slogan {
+    margin-left: -85px;
+    width: 100vw;
+    background-color: rgb(248, 242, 242);
+    opacity: 0.89;
+    height: 230px;
+    /** align center */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+@media screen and (min-width: 240px) and (max-width: 619px) {
+    .site__slogan__title {
+        font-style: normal;
+        color: $dark-blue;
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 620px) and (max-width: 924px) {
+    .site__slogan__title {
+        font-style: normal !important; // color: $dark-blue;
+        font-size: 2rem ;
+    }
+}
+@media screen and (min-width: 925px){
+    .site__slogan__title {
+
+        font-size: 3rem ;
+    }
+}

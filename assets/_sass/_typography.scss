@@ -1,0 +1,38 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: $base-black;
+}
+
+.article__block {
+    font-family: "Merriweather";
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+/** Heading title*/
+.heading__title {
+    color: $light-grey;
+}
+.sub__heading {
+    font-weight: 700;
+    font-size: 0.8rem;
+    margin-top: -10px;
+}
+h2 {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+/** Style figure source */
+.fig__source, figcaption {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: initial;
+}
+figcaption {
+    text-transform: uppercase;
+}
