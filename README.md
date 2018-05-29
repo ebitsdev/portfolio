@@ -8,5 +8,5 @@ The project requirements are as follow:
 3. Use semantic HTML5 elements such as header, aside, article, etc.
 4. Use CSS (Sass) for styling.
 
-The finished site is located at [portfolio](https://ebitsdev.github.io/portfolio)
+The completed project is located at [portfolio](https://ebitsdev.github.io/portfolio)
 
