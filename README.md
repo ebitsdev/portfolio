@@ -1,5 +1,5 @@
 # Portfolio site for Google Udcaity Front-End Web Developer Nanodegree
-This portfolio site is my first project for my Google Udacity Nanodegree scholarship.
+This portfolio site is my first project for the Google Udacity Nanodegree scholarship.
 
 The project requirements are as follow:
 
