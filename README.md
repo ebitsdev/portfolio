@@ -6,7 +6,7 @@ The project requirements are as follow:
 1. Create a site with featured work in front-end development
 2. Use Flexbox, bootstrap, foundation to create a responsive grid layout
 3. Use semantic HTML5 elements such as header, aside, article, etc.
-4. Use CSS (Sass) for styling
+4. Use CSS (Sass) for styling.
 
-The portfolio site is located [portfolio](https://ebitsdev.github.io/portfolio)
+The finished site is located at [portfolio](https://ebitsdev.github.io/portfolio)
 
